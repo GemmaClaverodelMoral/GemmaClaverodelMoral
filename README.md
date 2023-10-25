@@ -18,6 +18,4 @@
 <br>
 
 ## Retos Efectuados
-<div align="center">
-<a href= "https://github.com/GemmaClaverodelMoral/Retos-efectuados/blob/Reto-FizzBuzz/index.html">Reto FizzBuzz target="_blank" width="200" alt="Reto FizzBuzz"</a>
-</div>
+- [Calculadora] ("https://github.com/GemmaClaverodelMoral/GemmaClaverodelMoral/blob/Reto-Calculadora/index.html")
