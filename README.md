@@ -17,7 +17,7 @@
 ## Proyectos *especiales*
 - [QuotesMachine] ("https://gemmaclaverodelmoral.github.io/Quotes-Machine/")
 <div align = "center">
-<img src="https://github.com/GemmaClaverodelMoral/Calculadora-Sencilla/blob/main/Imagen-Calculadora.png" width="100px"/>
+<img src="https://github.com/GemmaClaverodelMoral/Quotes-Machine/blob/main/Qutes-Machine-Image.png" width="200px"/>
 </div>
 
 ## Retos Efectuados
