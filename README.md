@@ -25,7 +25,8 @@
 <div align = "center">
 <img src="https://github.com/GemmaClaverodelMoral/Calculadora-Sencilla/blob/main/Imagen-Calculadora.png" width="100px"/>
 </div>
-- [FizzBuzz] ("https://gemmaclaverodelmoral.github.io/FizzBuzz/") </br>
+- [FizzBuzz] ("https://gemmaclaverodelmoral.github.io/FizzBuzz/")
+
 <div align = "center">
 <img src="https://github.com/GemmaClaverodelMoral/FizzBuzz/blob/main/Imagen-Reto-FizzBuzz.png" width="300px"/>
 </div>
