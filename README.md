@@ -20,3 +20,4 @@
 ## Retos Efectuados
 - [Calculadora] ("https://gemmaclaverodelmoral.github.io/Calculadora-Sencilla/")
 - [QuotesMachine] ("https://gemmaclaverodelmoral.github.io/Quotes-Machine/")
+- [FizzBuzz] ("https://gemmaclaverodelmoral.github.io/FizzBuzz/")
