@@ -19,3 +19,4 @@
 
 ## Retos Efectuados
 - [Calculadora] ("https://github.com/GemmaClaverodelMoral/GemmaClaverodelMoral/blob/Reto-Calculadora/index.html")
+- [QuotesMachine] ("https://github.com/GemmaClaverodelMoral/Retos-efectuados/blob/Quote-Machine/index.html")
