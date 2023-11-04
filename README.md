@@ -27,5 +27,5 @@
 </div>
 - [FizzBuzz] ("https://gemmaclaverodelmoral.github.io/FizzBuzz/")
 <div align = "center">
-<img src="https://github.com/GemmaClaverodelMoral/FizzBuzz/blob/main/Imagen-Reto-FizzBuzz.png" width="400px"/>
+<img src="https://github.com/GemmaClaverodelMoral/FizzBuzz/blob/main/Imagen-Reto-FizzBuzz.png" width="300px"/>
 </div>
