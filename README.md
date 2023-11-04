@@ -15,9 +15,8 @@
 <br>
 
 ## Proyectos *especiales*
-<br>
+- [QuotesMachine] ("https://gemmaclaverodelmoral.github.io/Quotes-Machine/")
 
 ## Retos Efectuados
 - [Calculadora] ("https://gemmaclaverodelmoral.github.io/Calculadora-Sencilla/")
-- [QuotesMachine] ("https://gemmaclaverodelmoral.github.io/Quotes-Machine/")
 - [FizzBuzz] ("https://gemmaclaverodelmoral.github.io/FizzBuzz/")
