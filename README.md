@@ -41,7 +41,7 @@
 <img src="https://github.com/GemmaClaverodelMoral/Ejercicio-01-PaseFiesta/blob/main/problema02.png" width="300px"/>
 </div>
 
-- [EjercicioB-AssistencaAlumnos]
+- [EjercicioB-AssistencaAlumnos] ("https://gemmaclaverodelmoral.github.io/EjercicioB-AssistencaAlumnos/")
 <br>
 Codigo JS para pasar lista durante 30 dias de los n alumnos de una clase y reprovarlos en caso de mas de 18 inasistencias
 <div align ="center">
