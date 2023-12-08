@@ -42,8 +42,7 @@
 </div>
 
 - [EjercicioB-AssistencaAlumnos] ("https://gemmaclaverodelmoral.github.io/EjercicioB-AssistencaAlumnos/")
-<br>
-Codigo JS para pasar lista durante 30 dias de los n alumnos de una clase y reprovarlos en caso de mas de 18 inasistencias
+Codigo JS para registrar la asistencia durante 30 dias de los n alumnos de una clase y reprovarlos en caso de mas de 18 inasistencias
 <div align ="center">
 <img src="https://github.com/GemmaClaverodelMoral/EjercicioB-AssistencaAlumnos/blob/main/problemaB.png" width="300px"></img>
 </div>
