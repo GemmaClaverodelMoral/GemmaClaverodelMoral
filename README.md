@@ -33,6 +33,6 @@
 <img src="https://github.com/GemmaClaverodelMoral/FizzBuzz/blob/main/Imagen-Reto-FizzBuzz.png" width="300px"/>
 </div>
 - [PaseFiesta] ("https://gemmaclaverodelmoral.github.io/Ejercicio-01-PaseFiesta/")
-<div align = "center">
-<img src="https://github.com/GemmaClaverodelMoral/..." width="300px"/>
+<div align = "center"><br>
+<img src="https://github.com/GemmaClaverodelMoral/Ejercicio-01-PaseFiesta/blob/main/problema02.png" width="300px"/>
 </div>
