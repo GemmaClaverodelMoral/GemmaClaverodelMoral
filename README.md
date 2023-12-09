@@ -17,7 +17,7 @@
 ## *Special* Projects 
 - [QuotesMachine] ("https://gemmaclaverodelmoral.github.io/Quotes-Machine/")
 <div align = "center">
-<img src="https://github.com/GemmaClaverodelMoral/Quotes-Machine/blob/main/Qutes-Machine-Image.png" width="200px"/>
+<img src="https://github.com/GemmaClaverodelMoral/Quotes-Machine/blob/main/Qutes-Machine-Image.png" width="400px"/>
 </div>
 
 ## Challenges
@@ -44,3 +44,11 @@ Codigo JS para registrar la asistencia durante 30 dias de los n alumnos de una c
 <div align ="center">
 <img src="https://github.com/GemmaClaverodelMoral/EjercicioB-AssistencaAlumnos/blob/main/problemaB.png" width="300px"></img>
 </div>
+
+- [Calculadora-con-Prompt] ("https://gemmaclaverodelmoral.github.io/Calculadora-con-Prompt/")<br>
+Calculadora para hacer unas pruebas de JS de funciones flecha sencillas
+<div align ="center">
+<img src="https://github.com/GemmaClaverodelMoral/Calculadora-con-Prompt/blob/main/calculadora.png" width="600px"></img>
+</div>
+
+
