@@ -26,34 +26,40 @@
 <div align = "center">
 <img src="https://github.com/GemmaClaverodelMoral/Calculadora-Sencilla/blob/main/Imagen-Calculadora.png" width="100px"/>
 </div>
-#
+
+##
 - [FizzBuzz] ("https://gemmaclaverodelmoral.github.io/FizzBuzz/")<br>
 <div align = "center">
 <img src="https://github.com/GemmaClaverodelMoral/FizzBuzz/blob/main/Imagen-Reto-FizzBuzz.png" width="300px"/>
 </div>
-#
+
+## 
 - [PaseFiesta] ("https://gemmaclaverodelmoral.github.io/Ejercicio-01-PaseFiesta/")<br>
 Codigo JS que determina si una persona puedo o no entrar a una fiesta y si debe de pagar. Se ejecuta para 3 personas.
 <div align = "center"><br>
 <img src="https://github.com/GemmaClaverodelMoral/Ejercicio-01-PaseFiesta/blob/main/problema02.png" width="300px"/>
 </div>
-#
+
+##
 - [EjercicioB-AssistencaAlumnos] ("https://gemmaclaverodelmoral.github.io/EjercicioB-AssistencaAlumnos/")<br>
 Codigo JS para registrar la asistencia durante 30 dias de los n alumnos de una clase y reprovarlos en caso de mas de 18 inasistencias
 <div align ="center">
 <img src="https://github.com/GemmaClaverodelMoral/EjercicioB-AssistencaAlumnos/blob/main/problemaB.png" width="300px"></img>
 </div>
-#
+
+##
 - [Calculadora-con-Prompt] ("https://gemmaclaverodelmoral.github.io/Calculadora-con-Prompt/")<br>
 Calculadora para hacer unas pruebas de JS de funciones flecha sencillas
 <div align ="center">
 <img src="https://github.com/GemmaClaverodelMoral/Calculadora-con-Prompt/blob/main/calculadora.png" width="600px"></img>
 </div>
-#
+
+##
 - [Ejemplo-Objeto] (https://gemmaclaverodelmoral.github.io/Ejemplo-Objeto/)<br>
 Definicion basica de un objeto animal con 2 instancias perro y gato
 <div align ="center">
 <img src="https://github.com/GemmaClaverodelMoral/Ejemplo-Objeto/blob/main/objeto.png" width="300px"></img>
 </div>
-#
+
+##
 
