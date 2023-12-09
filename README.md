@@ -51,10 +51,10 @@ Calculadora para hacer unas pruebas de JS de funciones flecha sencillas
 <img src="https://github.com/GemmaClaverodelMoral/Calculadora-con-Prompt/blob/main/calculadora.png" width="600px"></img>
 </div>
 
-- [Ejemplo-Objeto] (https://gemmaclaverodelmoral.github.io/Ejemplo-Objeto/)
+- [Ejemplo-Objeto] (https://gemmaclaverodelmoral.github.io/Ejemplo-Objeto/)<br>
 Definicion basica de un objeto animal con 2 instancias perro y gato
 <div align ="center">
-<img src="[https://github.com/GemmaClaverodelMoral/Ejemplo-Objeto/blob/main/objeto.png]" width="300px"></img>
+<img src="https://github.com/GemmaClaverodelMoral/Ejemplo-Objeto/blob/main/objeto.png" width="300px"></img>
 </div>
 
 
