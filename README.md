@@ -62,4 +62,8 @@ Definicion basica de un objeto animal con 2 instancias perro y gato
 </div>
 
 ##
-
+- [Juego de Piedra Papel o Tijeras] (https://gemmaclaverodelmoral.github.io/piedrapapelotijera/)
+Se juega contra la aletoriedad del computador con un edicion basica con prompts y alerts
+<div align ="center">
+<img src="https://github.com/GemmaClaverodelMoral/Ejemplo-Objeto/blob/main/objeto.png" width="300px"></img>
+</div>
