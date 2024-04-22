@@ -16,7 +16,7 @@
 # REPOSITORY SUMMARY
 ## *Special* Projects 
 - [Juego Mokepon] ("https://gemmaclaverodelmoral.github.io/mokepon/")<br>
-Codigo de Juego multijugador programado en HTML, CSS y JS donde cada jugador conectado a un servidor desde su computador, dispositivo mobil o cualquier otro dispositivo conectado a la misma red local, puede entrar a pelear con mokepones enemigos.
+Codigo de Juego multijugador programado en HTML, CSS y JS donde cada jugador conectado a un servidor desde su computador, dispositivo mobil o cualquier otro dispositivo conectado a la misma red local, puede entrar a elegir, buscar a traves de un mapa a su contrincante y mandar ataques con mokepones enemigos.
 Basicamente se hizo para poner en practica destrezas html, Css, Js y entender el manejo basico de servidor BackEnd con llamadas y respuestas al mismo.
 Muestro tres pantallas basicas.
 <div align = "center">
