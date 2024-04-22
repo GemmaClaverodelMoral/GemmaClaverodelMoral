@@ -15,9 +15,18 @@
 
 # REPOSITORY SUMMARY
 ## *Special* Projects 
-- [QuotesMachine] ("https://gemmaclaverodelmoral.github.io/Quotes-Machine/")
+- [Juego Mokepon] ("https://gemmaclaverodelmoral.github.io/mokepon/")<br>
+Codigo de Juego multijugador programado en HTML, CSS y JS donde cada jugador conectado a un servidor desde su computador, dispositivo mobil o cualquier otro dispositivo conectado a la misma red local, puede entrar a pelear con mokepnes enemigos.
+Basicamente se hizo para poner en practica destrezas html, Css, Js y entender el manejo basico de servidor BackEnd con llamadas y respuestas al mismo.
+Muestro tres pantallas basicas.
 <div align = "center">
-<img src="https://github.com/GemmaClaverodelMoral/Quotes-Machine/blob/main/Qutes-Machine-Image.png" width="400px"/>
+<img src="https://github.com/GemmaClaverodelMoral/mokepon/blob/main/mokeponpantallainicio.png" width="400px"/>
+<img src="https://github.com/GemmaClaverodelMoral/mokepon/blob/main/mokeponpantallamapa.png" width="400px"/>
+<img src="https://github.com/GemmaClaverodelMoral/mokepon/blob/main/mokeponpantallabatalla.png" width="400px"/>
+</div>
+- [Juego Mokepon varios Jugadores / Varios dispositivos] ("https://gemmaclaverodelmoral.github.io/mokepon/")
+<div align = "center">
+<img src="https://github.com/GemmaClaverodelMoral/mpokepon/blob/main/mokepon.png" width="400px"/>
 </div>
 
 ## Challenges
