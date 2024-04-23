@@ -34,7 +34,7 @@ Muestro tres pantallas basicas.
 </div>
 
 ###Video simulacion del juego:
-https://youtu.be/jGJeAIJpbDY](https://youtu.be/t7RxgL8aQxs)
+[https://youtu.be/jGJeAIJpbDY](https://youtu.be/t7RxgL8aQxs)](https://www.youtube.com/watch?v=t7RxgL8aQxs)
 
 ## [QuotesMachine] 
 ("https://gemmaclaverodelmoral.github.io/Quotes-Machine/")
