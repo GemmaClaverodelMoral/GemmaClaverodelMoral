@@ -32,7 +32,11 @@ Muestro tres pantallas basicas.
 <div align = "center">
 <img src="https://github.com/GemmaClaverodelMoral/mpokepon/blob/main/mokepon.png" width="400px"/>
 </div>
-
+- [QuotesMachine] ("https://gemmaclaverodelmoral.github.io/Quotes-Machine/")
+Pantalla en la que van saliendo diferentes frases celebres y se pueden hacer accesos a diferentes redes sociales para compartir las frases elegidas.
+<div align = "center">
+<img src="https://github.com/GemmaClaverodelMoral/Quotes-Machine/blob/main/Qutes-Machine-Image.png" width="200px"/>
+</div>
 ## Challenges
 - [Calculadora] ("https://gemmaclaverodelmoral.github.io/Calculadora-Sencilla/")
 
