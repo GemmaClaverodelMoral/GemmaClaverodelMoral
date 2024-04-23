@@ -19,10 +19,14 @@
 Codigo de Juego multijugador programado en HTML, CSS y JS donde cada jugador conectado a un servidor desde su computador, dispositivo mobil o cualquier otro dispositivo conectado a la misma red local, puede entrar a elegir, buscar a traves de un mapa a su contrincante y mandar ataques con mokepones enemigos.
 Basicamente se hizo para poner en practica destrezas html, Css, Js y entender el manejo basico de servidor BackEnd con llamadas y respuestas al mismo.
 Muestro tres pantallas basicas.
-<div align = "center">https://github.com/GemmaClaverodelMoral/juegomokepon/blob/master/public/assets/mokeponpantallainicio.png
-<img src="https://github.com/GemmaClaverodelMoral/mokepon/blob/master/public/assets/mokeponpantallainicio.png" width="400px"/>
-<img src="https://github.com/GemmaClaverodelMoral/mokepon/blob/master/public/assets/mokeponpantallamapa.png" width="400px"/>
-<img src="https://github.com/GemmaClaverodelMoral/mokepon/blob/master/public/assets/mokeponpantallabatalla.png" width="400px"/>
+<div align = "center">  
+<img src="https://github.com/GemmaClaverodelMoral/juegomokepon/blob/master/public/assets/mokeponpantallainicio.png" width="400px"/>
+</div>
+<div align = "center">
+<img src="https://github.com/GemmaClaverodelMoral/juegomokepon/blob/master/public/assets/mokeponpantallamapa.png" width="400px"/>
+</div>
+<div align = "center">
+<img src="https://github.com/GemmaClaverodelMoral/juegomokepon/blob/master/public/assets/mokeponpantallabatalla.png" width="400px"/>
 </div>
 - [Juego Mokepon varios Jugadores / Varios dispositivos] ("https://gemmaclaverodelmoral.github.io/mokepon/")
 <div align = "center">
