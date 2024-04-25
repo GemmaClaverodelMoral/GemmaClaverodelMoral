@@ -63,6 +63,15 @@ Muestro tres pantallas basicas.
 <img src="https://github.com/GemmaClaverodelMoral/FizzBuzz/blob/main/Imagen-Reto-FizzBuzz.png" width="400px"/>
 </div>
 
+Ejercicio de FIZZBUZZ pero mas elegante del que hice hace meses.
+
+[FIZZ BUZZ ELEGANTE](https://gemmaclaverodelmoral.github.io/NewFizzBuzz/) 
+
+Pongo el codigo JS aqui porque es la gracia de la mejora:
+<div align="center">
+  <img src="https://github.com/GemmaClaverodelMoral/NewFizzBuzz/blob/main/FIZZBUZZ.png" width="400px" align="center">
+</div>
+
 ## [PaseFiesta](https://gemmaclaverodelmoral.github.io/Ejercicio-01-PaseFiesta/)
 
 Codigo JS que determina si una persona puedo o no entrar a una fiesta y si debe de pagar. Se ejecuta para 3 personas.
