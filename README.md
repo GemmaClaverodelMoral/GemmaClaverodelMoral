@@ -25,6 +25,7 @@
 - 3er mapa: se pintas lineas curvas.
   - 🖥️ COMPUTADOR: Con el mouse. 
   - 📲 CELULAR: Con el dedo.
+  - Extra CANVAS: La granja. manejo de imagenes en Canvas estaticas y con mov. [La GRANJA](https://gemmaclaverodelmoral.github.io/La-Granja-Canvas/)
 
 ## [Juego Mokepon (click to link Video Simulation)](https://youtu.be/t7RxgL8aQxs)
 Codigo de Juego multijugador programado en HTML, CSS y JS donde cada jugador conectado a un servidor desde su computador, dispositivo mobil o cualquier otro dispositivo conectado a la misma red local, puede entrar a elegir, buscar a traves de un mapa a su contrincante y mandar ataques con mokepones enemigos.
