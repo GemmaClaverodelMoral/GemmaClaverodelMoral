@@ -16,6 +16,18 @@
 # REPOSITORY SUMMARY
 ## *Special* Projects 
 
+## [Ejercicio de uso de CANVAS / mapas]
+
+
+
+
+
+
+
+
+
+
+
 ## [Juego Mokepon]<br/>
 Codigo de Juego multijugador programado en HTML, CSS y JS donde cada jugador conectado a un servidor desde su computador, dispositivo mobil o cualquier otro dispositivo conectado a la misma red local, puede entrar a elegir, buscar a traves de un mapa a su contrincante y mandar ataques con mokepones enemigos.
 Basicamente se hizo para poner en practica destrezas html, Css, Js y entender el manejo basico de servidor BackEnd con llamadas y respuestas al mismo.
