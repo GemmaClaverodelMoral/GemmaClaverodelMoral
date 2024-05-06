@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I love programing learning now with more than 50 years old. I feel like a teenager!
 - 🔭 Early:  My first new programing work! Total convence <br>
 </div>
-# REPOSITORY SUMMARY
+
+## REPOSITORY SUMMARY
+
 ## *Special* Projects 
 
 ## [Practica de uso de CANVAS / mapas. (click to link)](https://gemmaclaverodelmoral.github.io/EjercicioCanvas/)
