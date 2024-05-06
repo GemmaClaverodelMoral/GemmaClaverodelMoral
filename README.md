@@ -15,6 +15,25 @@
 
 ## *Special* Projects 
 
+## [TODO's List](https://gemmaclaverodelmoral.github.io/ToDos-List-with-React/) - Proyecto Introductorio a React.js
+ - 📖🗓️
+Lista de Tareas / TO DO's
+Aplicacion Interactiva para Ingresar, eliminar, marcar tareas pendientes y ejecutadas.
+
+<div align = "center">  
+<img src="https://github.com/GemmaClaverodelMoral/ToDos-List-with-React/blob/main/public/TODOs-vistas.png" width="800px"/>
+</div>
+<div align = "center">  
+<img src="https://github.com/GemmaClaverodelMoral/ToDos-List-with-React/assets/142899102/60525a84-3840-4e6f-ad99-90f8de93fe9b" width="50px"/>
+</div>
+
+Usando y provando con:
+ - React (Componentes y demas)
+ - Persistencia de datos con LocalStorage.
+ - Manejo de carga y error
+ - Hooks: useState, useContext, useEffect
+ - Modals
+
 ## [Practica de uso de CANVAS / mapas. (click to link)](https://gemmaclaverodelmoral.github.io/EjercicioCanvas/)
 <div align = "center">  
   <img src="https://github.com/GemmaClaverodelMoral/EjercicioCanvas/blob/main/Dibujar%20CANVAS%20-%20Automatico%20-%20flechas%20teclado%20-%20Mouse%20o%20touch.png" width="600px" align="center"/>
