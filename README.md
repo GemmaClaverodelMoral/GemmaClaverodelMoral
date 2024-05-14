@@ -19,7 +19,7 @@
 <img src="" width="800px"/>
 </div>
 <div align = "center">  
-<img src="https://" width="800px"/>
+<img src="https://github.com/GemmaClaverodelMoral/vola/blob/master/public/assets/Captura-Vola.png" width="800px"/>
 </div>
 
 ### Simulacion de eCommerce con algunas características de tiendas online usando React, Vite y TailwanCSS
@@ -27,8 +27,10 @@
 ### ¿Que contiene este proyecto?
 -	Acceso a base de datos asincronicamente: FireStore
 -	Filtros de productos por título (input) y categorías (navbar) 
--	Creacion y vistas de CheckOuts de Ordenes de compra.
+-	Creacion y vistas de CheckOuts de Ordenes de compra y Show Pruduct
 -	Deploy a github
+-	Faltan muchas cosas pero hasta este punto era el ejercicio:
+   - Boton de whatsApp, Ampliacion de imagenes en detalle, que las 8 primeras fotos sean generales y de acceso a filtro, arreglar los componentes que se solapan, carrito de la compra, 
 ### ¿Qué se usó?
  -	CSS, HTLM, JavaScrip, GiT y GitHub, manipulación del DOM, React, Vite con TailwindCSS
  - Hooks: useState, useContext, useEffect, ReactRouter, Navlink, useLocation
