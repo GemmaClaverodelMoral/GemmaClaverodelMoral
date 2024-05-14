@@ -13,7 +13,25 @@
 
 ## REPOSITORY SUMMARY
 
-## *Special* Projects 
+## [eCommece Practice](https://gemmaclaverodelmoral.github.io/vola/) - Proyecto ecommerce con React / Vite / TailwindCss
+
+<div align = "center">  
+<img src="" width="800px"/>
+</div>
+<div align = "center">  
+<img src="https://" width="800px"/>
+</div>
+
+### Simulacion de eCommerce con algunas características de tiendas online usando React, Vite y TailwanCSS
+
+### ¿Que contiene este proyecto?
+-	Acceso a base de datos asincronicamente: FireStore
+-	Filtros de productos por título (input) y categorías (navbar) 
+-	Creacion y vistas de CheckOuts de Ordenes de compra.
+-	Deploy a github
+### ¿Qué se usó?
+ -	CSS, HTLM, JavaScrip, GiT y GitHub, manipulación del DOM, React, Vite con TailwindCSS
+ - Hooks: useState, useContext, useEffect, ReactRouter, Navlink, useLocation
 
 ## [TODO's List](https://gemmaclaverodelmoral.github.io/ToDos-List-with-React/) - Proyecto Introductorio a React.js
  - 📖🗓️
