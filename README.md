@@ -39,6 +39,7 @@
  - 📖🗓️
 Lista de Tareas / TO DO's
 Aplicacion Interactiva para Ingresar, eliminar, marcar tareas pendientes y ejecutadas.
+Adicional tiene un control de ventanas donde en caso de que dos usuarios/ventanas cambien el LocalStorage el resto de ventanas son invitadas a actualizar la pagina antes de seguir ( de hecho todo queda bloqueado hasta no hacerlo)
 
 <div align = "center">  
 <img src="https://github.com/GemmaClaverodelMoral/ToDos-List-with-React/blob/main/public/TODOs-vistas.png" width="800px"/>
@@ -53,6 +54,28 @@ Usando y provando con:
  - Manejo de carga y error
  - Hooks: useState, useContext, useEffect
  - Modals
+
+## [PRACTICA DE MANEJO DEL ESTADO de React DE DIFERENTES FORMAS](https://gemmaclaverodelmoral.github.io/comparativa-useState-react.component-useRedux/)    
+APLICACION DE VALIDACION DE CLAVE usando tres formatos de manejo del estado:
+- React Hooks: React.useState
+- React Hook: React.useReduce
+- Clases: React.component
+
+<div align = "center">  
+<img src="https://github.com/GemmaClaverodelMoral/ToDos-List-with-React/blob/main/public/TODOs-vistas.png" width="800px"/>
+</div>
+<div align = "center">  
+<img src="https://github.com/GemmaClaverodelMoral/ToDos-List-with-React/assets/142899102/60525a84-3840-4e6f-ad99-90f8de93fe9b" width="50px"/>
+</div>
+
+Proyecto de codigos de seguridad donde se debe poder pedir un codigo de seguridad para
+confirmar poder hacer la accion.
+Pide codigo. Bien o mal
+Pide confirmacion . Si o no
+Y se hace la accion tener un undo para recuperar el estado anterior.
+
+Se va a probar con los hooks React.useState y React.useReduce y con clases usando React.Component en la misma pantalla en paralelo para practicar las similitures y diferencias
+Caracteristicas de los estados en clases comparados con react hooks y para practicar como se pueden seguir estados complejos y declarativos usando Reduce.
 
 ## [Practica de uso de CANVAS / mapas. (click to link)](https://gemmaclaverodelmoral.github.io/EjercicioCanvas/)
 <div align = "center">  
@@ -88,7 +111,7 @@ Muestro tres pantallas basicas.
 <img src="https://github.com/GemmaClaverodelMoral/Quotes-Machine/blob/main/Qutes-Machine-Image.png" width="300px"/>
 </div>
 
-# Challenges
+# Challenges adicionales
 
 ## [Calculadora - click to link](https://gemmaclaverodelmoral.github.io/Calculadora-Sencilla/)
 
@@ -140,12 +163,6 @@ Codigo JS para registrar la asistencia durante 30 dias de los n alumnos de una c
 Calculadora para hacer unas pruebas de JS de funciones flecha sencillas
 <div align ="center">
   <img src="https://github.com/GemmaClaverodelMoral/Calculadora-con-Prompt/blob/main/calculadora.png" width="600px"></img>
-</div>
-
-## [Ejemplo-Objeto](https://gemmaclaverodelmoral.github.io/Ejemplo-Objeto/)
-Definicion basica de un objeto animal con 2 instancias perro y gato
-<div align ="center">
-  <img src="https://github.com/GemmaClaverodelMoral/Ejemplo-Objeto/blob/main/objeto.png" width="300px"></img>
 </div>
 
 ## [Juego de Piedra 🪨, Papel 🧻 o Tijeras ✂️](https://gemmaclaverodelmoral.github.io/piedrapapelotijera/)
