@@ -62,10 +62,7 @@ APLICACION DE VALIDACION DE CLAVE usando tres formatos de manejo del estado:
 - Clases: React.component
 
 <div align = "center">  
-<img src="https://github.com/GemmaClaverodelMoral/ToDos-List-with-React/blob/main/public/TODOs-vistas.png" width="800px"/>
-</div>
-<div align = "center">  
-<img src="https://github.com/GemmaClaverodelMoral/ToDos-List-with-React/assets/142899102/60525a84-3840-4e6f-ad99-90f8de93fe9b" width="50px"/>
+<img src="https://github.com/GemmaClaverodelMoral/comparativa-useState-react.component-useRedux/blob/main/public/Manejos-del-estado-React.png" width="400px"/>
 </div>
 
 Proyecto de codigos de seguridad donde se debe poder pedir un codigo de seguridad para
