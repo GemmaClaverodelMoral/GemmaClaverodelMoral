@@ -67,12 +67,28 @@ APLICACION DE VALIDACION DE CLAVE usando tres formatos de manejo del estado:
 
 Proyecto de codigos de seguridad donde se debe poder pedir un codigo de seguridad para
 confirmar poder hacer la accion.
-Pide codigo. Bien o mal
+Pide codigo. Bien o mal<<
 Pide confirmacion . Si o no
 Y se hace la accion tener un undo para recuperar el estado anterior.
 
 Se va a probar con los hooks React.useState y React.useReduce y con clases usando React.Component en la misma pantalla en paralelo para practicar las similitures y diferencias
 Caracteristicas de los estados en clases comparados con react hooks y para practicar como se pueden seguir estados complejos y declarativos usando Reduce.
+
+## [Practica de uso de React.Routes (click to link)](https://gemmaclaverodelmoral.github.io/practica-react-router/)
+- Usando `<NavLink>` no se necesita especificar /#/
+- Ademas se puede llamar a funciones en los atributos de la etiqueta
+- Para no repetir las propiedades que se repiten en cada ruta se crea un array de rutas
+- uso de :slug en las rutas
+- Hook useParams: renderizacion dinamica de los blogs con el 
+- Hook useNavigate: para cambiar de un componente a otro sin necesidad de link solo poniendo el slug en el hook
+- Hook Oulet: ( nested routes )Para renderizar varias rutas a la vez. Cosas dentro de cosas (nested routes).
+- Manejo de Autenticaciones: Creacion de useAuth: Manejo de rutas privadas. login y logout. uso de React.useNavigate
+- evitar navegacion no autorizada desde Menu.js usando el atributo de las rutas: (route.hidden) y atrubutos del useAuth (!auth.user) 
+- evitar navegacion no autorizada desde Url creando un componente ProtectRoutes que proteja el llamado a las rutas en App.js.
+-  
+- Manejo de Autorizaciones: Se crean boton de eliminacion en el componente BlogPost que solo se renderiza si eres administrador (!!auth.user?.isAdmin) o si eres creador del Post (auth.user?.userName === blogpost.author) 
+- Un ruta secreta solo se renderiza si el auth.user.userName = 'Gemma' desde el menu y desde la Url ademas de iniciar ocultamente.
+- hacer el que boton de borrar Blogs funcione y borre el blog
 
 ## [Practica de uso de CANVAS / mapas. (click to link)](https://gemmaclaverodelmoral.github.io/EjercicioCanvas/)
 <div align = "center">  
