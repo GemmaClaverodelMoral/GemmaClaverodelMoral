@@ -86,8 +86,9 @@ Caracteristicas de los estados en clases comparados con react hooks y para pract
 - evitar navegacion no autorizada desde Url creando un componente ProtectRoutes que proteja el llamado a las rutas en App.js.
 -  
 - Manejo de Autorizaciones: Se crean boton de eliminacion en el componente BlogPost que solo se renderiza si eres administrador (!!auth.user?.isAdmin) o si eres creador del Post (auth.user?.userName === blogpost.author) 
-- Un ruta secreta solo se renderiza si el auth.user.userName = 'Gemma' desde el menu y desde la Url ademas de iniciar ocultamente.
+- Un ruta secreta solo se renderiza si el auth.user.userType es de administrador o superAdministradordesde el menu y desde la Url ademas de iniciar ocultamente.
 - hacer el que boton de borrar Blogs funcione y borre el blog
+- useLocation para poder devolvernos a la pagina en la que estabamos antes de hacer login o logout
 
 ## [Practica de uso de CANVAS / mapas. (click to link)](https://gemmaclaverodelmoral.github.io/EjercicioCanvas/)
 <div align = "center">  
