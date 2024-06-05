@@ -78,9 +78,7 @@ Caracteristicas de los estados en clases comparados con react hooks y para pract
 - Usando `<NavLink>` no se necesita especificar /#/
 - Ademas se puede llamar a funciones en los atributos de la etiqueta
 - Para no repetir las propiedades que se repiten en cada ruta se crea un array de rutas
-- uso de :slug en las rutas
-- Hook useParams: renderizacion dinamica de los blogs con el 
-- Hook useNavigate: para cambiar de un componente a otro sin necesidad de link solo poniendo el slug en el hook
+- Renderizacionde de rutas dinamicas :slug en las rutas usando useParams. Hook useNavigate: para cambiar de un componente a otro sin necesidad de link solo poniendo el slug en el hook
 - Hook Oulet: ( nested routes )Para renderizar varias rutas a la vez. Cosas dentro de cosas (nested routes).
 - Manejo de Autenticaciones: Creacion de useAuth: Manejo de rutas privadas. login y logout. uso de React.useNavigate
 - evitar navegacion no autorizada desde Menu.js usando el atributo de las rutas: (route.hidden) y atrubutos del useAuth (!auth.user) 
