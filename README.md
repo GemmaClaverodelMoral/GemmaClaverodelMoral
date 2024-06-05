@@ -75,6 +75,7 @@ Se va a probar con los hooks React.useState y React.useReduce y con clases usand
 Caracteristicas de los estados en clases comparados con react hooks y para practicar como se pueden seguir estados complejos y declarativos usando Reduce.
 
 ## [Practica de uso de React.Routes (click to link)](https://gemmaclaverodelmoral.github.io/practica-react-router/)
+
 - Usando `<NavLink>` no se necesita especificar /#/
 - Ademas se puede llamar a funciones en los atributos de la etiqueta
 - Para no repetir las propiedades que se repiten en cada ruta se crea un array de rutas
