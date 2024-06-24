@@ -1,6 +1,6 @@
 <div align="center">
 <h2 align="center">Hola, soy <a >Gemma Clavero Del Moral</a> 👋</h2>
-<img src="https://github.com/GemmaClaverodelMoral/GemmaClaverodelMoral/blob/main/IMAGEN-Perfil.jpg" width="600px" align="center">
+
 
 ## About me
 
