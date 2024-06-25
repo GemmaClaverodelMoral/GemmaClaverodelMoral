@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Hola, soy <a >Gemma Clavero Del Moral</a> 👋</h2>
+<h2 align="center">Conoce a GEMMA CLAVERO DEL MORAL 👋</h2>
 
 
 ## About me
