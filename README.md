@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Conoce a GEMMA CLAVERO DEL MORAL 👋</h2>
+<h2 align="center">About GEMMA CLAVERO DEL MORAL 👋</h2>
 
 
 ## About me
@@ -13,7 +13,7 @@
 
 ## REPOSITORY SUMMARY
 
-## [eCommece Practice](https://gemmaclaverodelmoral.github.io/vola/) - Proyecto ecommerce con React / Vite / TailwindCss
+## [eCommece Practice](https://gemmaclaverodelmoral.github.io/vola/) - eCommerce practice with React / Vite / TailwindCss
 
 <div align = "center">  
 <img src="" width="800px"/>
@@ -22,7 +22,7 @@
 <img src="https://github.com/GemmaClaverodelMoral/vola/blob/master/public/assets/Captura-Vola.png" width="800px"/>
 </div>
 
-### Simulacion de eCommerce con algunas características de tiendas online usando React, Vite y TailwanCSS
+### eCommerce "simulation" with React, Vite & TailwanCSS
 
 ### ¿Que contiene este proyecto?
 -	Acceso a base de datos asincronicamente: FireStore
