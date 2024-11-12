@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">About GEMMA CLAVERO DEL MORAL 👋</h2>
+  <h2 align="center">About GEMMA CLAVERO DEL MORAL 👋</h2>
 
 
 ## About me
@@ -7,8 +7,14 @@
 - 🌱 I’m currently re-skilling learning Html, CSS & JS & a little bit of IA & Cibersecurity Fundamentals
 - 👯 I’m looking to collaborate on Programing Teams to achive new skills   
 - 📫 How to reach me: + 57 320-83427237 best wapp
-- ⚡ Fun fact: I love programing learning now with more than 50 years old!
 - 🔭 Early:  My first new programing work! Total convence <br>
+#
+## Sobre mí
+
+- 🌱 Actualmente me estoy recualificando aprendiendo HTML, CSS & JS y un poco de Fundamentos de IA y Ciberseguridad
+- 👯 Estoy buscando colaborar en equipos de programación para lograr nuevas habilidades
+- 📫 Cómo contactarme: +57 320-83427237, mejor por WhatsApp
+- 🔭 Pronto: ¡Mi primer nuevo trabajo de programación! Totalmente convencida <br>
 </div>
 
 ## REPOSITORY SUMMARY
@@ -199,53 +205,38 @@ Pantalla en la que van saliendo diferentes frases celebres y se pueden hacer acc
 </div>
 
 ## [FizzBuzz](https://gemmaclaverodelmoral.github.io/FizzBuzz/)
+<span>... well known to all</span><br>
+#
 <span>... por todos conocido</span><br>
 ![学习中GIF](https://github.com/GemmaClaverodelMoral/GemmaClaverodelMoral/assets/142899102/2e7e1be2-335f-4974-8598-6ce53272df5a)
 
 <div align = "center">
 <img src="https://github.com/GemmaClaverodelMoral/FizzBuzz/blob/main/Imagen-Reto-FizzBuzz.png" width="400px"/>
 </div>
-
+FizzBuzz exercise, but more elegant than the one I did months ago.
+#
 Ejercicio de FIZZBUZZ pero mas elegante del que hice hace meses.
 
 [FIZZ BUZZ ELEGANTE](https://gemmaclaverodelmoral.github.io/NewFizzBuzz/) 
-
+I put the JS code here because that's the point of the improvement:
+#
 Pongo el codigo JS aqui porque es la gracia de la mejora:
 <div align="center">
   <img src="https://github.com/GemmaClaverodelMoral/NewFizzBuzz/blob/main/FIZZBUZZ.png" width="400px" align="center">
 </div>
 
-## [Cajero Automatico](https://gemmaclaverodelmoral.github.io/cajero/)
-
+## [ATM](https://gemmaclaverodelmoral.github.io/cajero/)
+Program that gives me money based on the value entered in an input and tells me how many bills of each denomination it gives me.
+Practice application to understand the use of an array of objects and how to iterate through it.
+I also programmed a custom ALERT (since I don't like the one provided by the browser).
+It was tested with the creation of paragraph elements that are dynamically filled from JS.
+#
 Programa que me da plata segun el valor entrado en un input y me dice cuatos billetes de cada clase me da.
 Aplicacion de practica para entender el uso de array de objetos y recorrerlo
 Tambien programe un ALERT personalizado (ya que no me gusta el que da el navegador
-Se probo con creacion de <p>'s que se llenan en forma dinamica desde JS.
+Se probo con creacion de paragrafos que se llenan en forma dinamica desde JS.
 <div align = "center">  
   <img src="https://github.com/GemmaClaverodelMoral/cajero/blob/main/captura-cajero.png" width="300px" align="center"/>
 </div>
 
-## [PaseFiesta](https://gemmaclaverodelmoral.github.io/Ejercicio-01-PaseFiesta/)
 
-Codigo JS que determina si una persona puedo o no entrar a una fiesta y si debe de pagar. Se ejecuta para 3 personas.
-<div align = "center"><br>
-  <img src="https://github.com/GemmaClaverodelMoral/Ejercicio-01-PaseFiesta/blob/main/problema02.png" width="400px"/>
-</div>
-
-## [EjercicioB-AssistencaAlumnos](https://gemmaclaverodelmoral.github.io/EjercicioB-AssistencaAlumnos/)
-Codigo JS para registrar la asistencia durante 30 dias de los n alumnos de una clase y reprovarlos en caso de mas de 18 inasistencias
-<div align ="center">
-  <img src="https://github.com/GemmaClaverodelMoral/EjercicioB-AssistencaAlumnos/blob/main/problemaB.png" width="400px"></img>
-</div>
-
-## [Calculadora-con-Prompt](https://gemmaclaverodelmoral.github.io/Calculadora-con-Prompt/)
-Calculadora para hacer unas pruebas de JS de funciones flecha sencillas
-<div align ="center">
-  <img src="https://github.com/GemmaClaverodelMoral/Calculadora-con-Prompt/blob/main/calculadora.png" width="600px"></img>
-</div>
-
-## [Juego de Piedra 🪨, Papel 🧻 o Tijeras ✂️](https://gemmaclaverodelmoral.github.io/piedrapapelotijera/)
-Se juega contra la aletoriedad del computador con un edicion basica con prompts y alerts
-<div align ="center">
-  <img src="https://github.com/GemmaClaverodelMoral/piedrapapelotijera/blob/main/piedrapapelotijera.png" width="300px"></img>
-</div>
