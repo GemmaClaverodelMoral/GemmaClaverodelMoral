@@ -4,8 +4,8 @@
 
 ## About me
 
-- 🌱 I’m currently learning Html, CSS & JS
-- 👯 I’m looking to collaborate on Programing Teams
+- 🌱 I’m currently re-skilling learning Html, CSS & JS & a little bit of IA & Cibersecurity Fundamentals
+- 👯 I’m looking to collaborate on Programing Teams to achive new skills   
 - 📫 How to reach me: + 57 320-83427237 best wapp
 - ⚡ Fun fact: I love programing learning now with more than 50 years old!
 - 🔭 Early:  My first new programing work! Total convence <br>
