@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Html, CSS & JS
 - 👯 I’m looking to collaborate on Programing Teams
 - 📫 How to reach me: + 57 320-83427237 best wapp
-- ⚡ Fun fact: I love programing learning now with more than 50 years old. I feel like a teenager!
+- ⚡ Fun fact: I love programing learning now with more than 50 years old!
 - 🔭 Early:  My first new programing work! Total convence <br>
 </div>
 
@@ -82,12 +82,12 @@ Caracteristicas de los estados en clases comparados con react hooks y para pract
 - Renderizacionde de rutas dinamicas :slug en las rutas usando useParams. Hook useNavigate: para cambiar de un componente a otro sin necesidad de link solo poniendo el slug en el hook
 - Hook Oulet: ( nested routes )Para renderizar varias rutas a la vez. Cosas dentro de cosas (nested routes).
 - Manejo de Autenticaciones: Creacion de useAuth: Manejo de rutas privadas. login y logout. uso de React.useNavigate
-- evitar navegacion no autorizada desde Menu.js usando el atributo de las rutas: (route.hidden) y atrubutos del useAuth (!auth.user) 
-- evitar navegacion no autorizada desde Url creando un componente ProtectRoutes que proteja el llamado a las rutas en App.js.
+- Evitar navegacion no autorizada desde Menu.js usando el atributo de las rutas: (route.hidden) y atrubutos del useAuth (!auth.user) 
+- Evitar navegacion no autorizada desde Url creando un componente ProtectRoutes que proteja el llamado a las rutas en App.js.
 -  
 - Manejo de Autorizaciones: Se crean boton de eliminacion en el componente BlogPost que solo se renderiza si eres administrador (!!auth.user?.isAdmin) o si eres creador del Post (auth.user?.userName === blogpost.author) 
 - Un ruta secreta solo se renderiza si el auth.user.userType es de administrador o superAdministradordesde el menu y desde la Url ademas de iniciar ocultamente.
-- hacer el que boton de borrar Blogs funcione y borre el blog
+- Hacer el que boton de borrar Blogs funcione y borre el blog
 - useLocation para poder devolvernos a la pagina en la que estabamos antes de hacer login o logout
 
 ## [Practica de uso de CANVAS / mapas. (click to link)](https://gemmaclaverodelmoral.github.io/EjercicioCanvas/)
